@@ -14,14 +14,14 @@
   }
 
   .navbar__link:hover {
-    color: #ff8f9c;
+    color: #cc1b2f;
     transition: all 0.4s;
   }
 
   .navbar__link::after {
     position: absolute;
     content: "";
-    background-color: #ff8f9c;
+    background-color: #6b6969;
     height: 3px;
     width: 100%;
     bottom: -5px;
