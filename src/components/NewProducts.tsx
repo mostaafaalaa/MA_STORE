@@ -1,30 +1,30 @@
 import React from "react";
 import ProductCard from "./ProductCard";
 
-const productsData = [,
+const productsData = [
+  {
+    img: "/jacket-1.jpg",
+    title: "Jacket",
+    desc: "MEN Yarn Fleece Full-Zip Jacket",
+    rating: 4,
+    price: "45.00",
+  },
+  {
+    img: "/skirt-1.jpg",
+    title: "Skirt",
+    desc: "Black Floral Wrap Midi Skirt",
+    rating: 5,
+    price: "55.00",
+  },
+  {
+    img: "/party-wear-1.jpg",
+    title: "Party Wear",
+    desc: "Women's Party Wear Shoes",
+    rating: 3,
+    price: "25.00",
+  },
   {
     img: "/shirt-1.jpg",
-    title: "Shirt",
-    desc: "Pure Garment Dyed Cotton Shirt",
-    rating: 4,
-    price: "45.00",
-  },
-  {
-    img: "/shirt-2.jpg",
-    title: "Shirt",
-    desc: "Pure Garment Dyed Cotton Shirt",
-    rating: 4,
-    price: "45.00",
-  },
-  {
-    img: "/shirt-3.jpg",
-    title: "Shirt",
-    desc: "Pure Garment Dyed Cotton Shirt",
-    rating: 4,
-    price: "45.00",
-  },
-  {
-    img: "/shirt-4.jpg",
     title: "Shirt",
     desc: "Pure Garment Dyed Cotton Shirt",
     rating: 4,
